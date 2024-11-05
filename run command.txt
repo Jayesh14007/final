@@ -1,0 +1,151 @@
+chit 4 9 angular
+npm i
+ng serve
+
+chit 5 10 node js
+npm i
+node app.js
+
+
+chits: airline
+node app.js
+
+
+employee management system 6 10 11 mongodb mean stack
+terminal 1     terminal 2
+cd client       cd server
+npm i           npm i
+ng serve        npm i -g ts -node
+                ts-node src/server.ts=package.json(src)
+
+mobile jquery go live 7
+
+ajax go live
+ 
+college management live go live
+
+crud operation 13  npm index.js mongodb WhatsApp
+
+
+salesforce account id and password: 
+ 1)Username :jayeshsasane14@gmail.com  
+ 2) pass: Jayeshlaptop@14  
+3)which city born:Pune
+
+gitup:user name=Jayesh14007
+       pass= Jayeshlaptop@14  
+
+cloud engine: google app engine-1.9.62  - download
+              python-2.7.9.amd64msi -Windows X86 MSI installer- download
+
+   google app engine - edit - preference-python path(select path)- C drive-python27-pythonw.exe
+                              App engine sdk-this pc- c drive-pythonfiles(X86)-google-goole app engine
+                             create new folder- create new application- browse-(create folder choise karayacha)-create(select)-run- localhost8080(go tolocal host).
+
+https://github.com/suyash-more/Cloud-Computing-Projects   // nandini//https://github.com/meghadandapat/TE-IT-WADL
+https://github.com/Codyash477/WAD     //yash
+
+
+1)GitHub run command:
+
+PS C:\Users\Admin\Desktop\ass2> cd Part-A
+PS C:\Users\Admin\Desktop\ass2\Part-A> git --version
+git version 2.44.0.windows.1
+PS C:\Users\Admin\Desktop\ass2\Part-A> git init
+Initialized empty Git repository in C:/Users/Admin/Desktop/ass2/Part-A/.git/
+PS C:\Users\Admin\Desktop\ass2\Part-A> git add .
+PS C:\Users\Admin\Desktop\ass2\Part-A> git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+
+PS C:\Users\Admin\Desktop\ass2\Part-A> git remote add origin "https://github.com/Codyash477/WadAss2.git"
+PS C:\Users\Admin\Desktop\ass2\Part-A> git commit -m "First Commit"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Admin@DESKTOP-U7CG9JT.(none)')
+PS C:\Users\Admin\Desktop\ass2\Part-A> git config --global user.email "phoenixworld786@gmail.com"
+PS C:\Users\Admin\Desktop\ass2\Part-A> git commit -m "First Commit"                       
+[master (root-commit) 3a22cba] First Commit
+ 1 file changed, 17 insertions(+)
+ create mode 100644 index.html
+PS C:\Users\Admin\Desktop\ass2\Part-A> git status
+On branch master
+nothing to commit, working tree clean
+PS C:\Users\Admin\Desktop\ass2\Part-A> git push -u origin master
+info: please complete authentication in your browser...
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 383 bytes | 383.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Codyash477/WadAss2.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+PS C:\Users\Admin\Desktop\ass2\Part-A> touch display.html
+touch : The term 'touch' is not recognized as the name of a cmdlet, function, script 
+file, or operable program. Check the spelling of the name, or if a path was included,     
+verify that the path is correct and try again.
+At line:1 char:1
++ touch display.html
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (touch:String) [], CommandNotFoundExceptio  
+   n
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\Admin\Desktop\ass2\Part-A> git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        yes.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+PS C:\Users\Admin\Desktop\ass2\Part-A> git add .
+PS C:\Users\Admin\Desktop\ass2\Part-A> git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   yes.html
+
+PS C:\Users\Admin\Desktop\ass2\Part-A> git commit -m "Second Commit"
+[master 69d0027] Second Commit
+ 1 file changed, 11 insertions(+)
+ create mode 100644 yes.html
+PS C:\Users\Admin\Desktop\ass2\Part-A> git push -u origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 438 bytes | 219.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Codyash477/WadAss2.git
+   3a22cba..69d0027  master -> master
+branch 'master' set up to track 'origin/master'.
+PS C:\Users\Admin\Desktop\ass2\Part-A> 
+
+
+DeveloperSalesforce.com-object manager -create-custom object -name-save and new-fields and relationship -new-text-next-next-save-setup-search(tabs)--new-steps-next--save-setup-serach(app manager)-new lightning app-app details-next-next(new lightining appp-tabs)-next- 3rd step element's - system administrator -(click app laucher)app name-new- fill info
+
+
+
+
+

@@ -1,0 +1,57 @@
+ 1)https://github.com/girishwakchaure/wadpractical
+2) salesforces : jayeshsasane14@gmail.com pass:Rohitshrma@14
+3)aws:jayeshsasane007@gmail.com pass:Rohitshrma@14
+4)chatgpt:jayeshsasane14@gmail.com pass:sasane@123
+5)aws:pratik.n.kakade@gmail.com
+ pass:pratik@2895
+
+
+
+1)angular code command 
+
+terminal 1                     terminal 2
+cd client                       cd server
+npm i                            npm i
+ng serve                         npm i -g ts -node
+                                 ts-node src/server.ts
+
+
+2)git upload command
+
+git --version
+git init
+git remote add origin ( link add karayache=https://github.com/Jayesh14007/papa.git)
+git add .
+git commit -m"first commit"
+git push origin master
+
+
+3)cloud engine(hello world): google app engine-1.9.62  - download
+              python-2.7.9.amd64msi -Windows X86 MSI installer- download
+
+   google app engine - edit - preference-python path(select path)- C drive-python27-pythonw.exe
+                              App engine sdk-this pc- c drive-pythonfiles(X86)-google-goole app engine
+                             create new folder- create new application- browse-(create folder choise karayacha)-create(select)-run- localhost8080(go tolocal host)
+
+4)one virtual machine to another
+virtual box-    https://portal.cloud.hashicorp.com/vagrant/discover/bento/ubuntu-16.04
+
+  New-name(VM1)-type(Linux)-version(ubntu 64bit)-next-next-use an existin g virtual hard disk file(file ubuntu-18.04-amd-disk001)open-create-same name(vm2)process-file-preference-network-natnetwork(nasel tr {+} click)
+1st vm(click right ckick setting)-network-attached(natnetwork)-2nd vm same
+           vm1 start and vm2 start
+           login-vagrant
+           pass-vagrant
+           - ifconfig  (nasel hot tr-sudo apt install net-tools) 
+vm1                          vm2
+-ls                          -ls
+-touch (file name.txt)       -ls
+-cat  (file name.txt)        -cat(file name.txt)
+-nano(file name.txt)
+ clrl+s
+ clrl+x
+-cat  (file name.txt)
+-scp(file name.txt)vagrant@(int)10.0.2.16(vm2 ip address):/home/vagrant
+eg :scp jay.txt vagrant@10.29.10:/home/vagrant
+-yes
+-password:vagrant
+
